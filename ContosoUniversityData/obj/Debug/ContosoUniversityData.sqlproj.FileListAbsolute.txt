@@ -1,0 +1,5 @@
+D:\Git\oceanlin91100\ContosoUniversityData\ContosoUniversityData\bin\Debug\ContosoUniversityData.dacpac
+D:\Git\oceanlin91100\ContosoUniversityData\ContosoUniversityData\bin\Debug\ContosoUniversityData.dll
+D:\Git\oceanlin91100\ContosoUniversityData\ContosoUniversityData\bin\Debug\ContosoUniversityData.pdb
+D:\Git\oceanlin91100\ContosoUniversityData\ContosoUniversityData\obj\Debug\ContosoUniversityData.dll
+D:\Git\oceanlin91100\ContosoUniversityData\ContosoUniversityData\obj\Debug\ContosoUniversityData.pdb
