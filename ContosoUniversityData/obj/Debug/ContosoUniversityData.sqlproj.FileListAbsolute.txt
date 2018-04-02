@@ -3,3 +3,7 @@ D:\Git\oceanlin91100\ContosoUniversityData\ContosoUniversityData\bin\Debug\Conto
 D:\Git\oceanlin91100\ContosoUniversityData\ContosoUniversityData\bin\Debug\ContosoUniversityData.pdb
 D:\Git\oceanlin91100\ContosoUniversityData\ContosoUniversityData\obj\Debug\ContosoUniversityData.dll
 D:\Git\oceanlin91100\ContosoUniversityData\ContosoUniversityData\obj\Debug\ContosoUniversityData.pdb
+D:\Git\oceanlin91100\ContosoUniversityData\ContosoUniversityData\obj\Debug\Model.xml
+D:\Git\oceanlin91100\ContosoUniversityData\ContosoUniversityData\obj\Debug\refactor.xml
+D:\Git\oceanlin91100\ContosoUniversityData\ContosoUniversityData\obj\Debug\postdeploy.sql
+D:\Git\oceanlin91100\ContosoUniversityData\ContosoUniversityData\obj\Debug\predeploy.sql

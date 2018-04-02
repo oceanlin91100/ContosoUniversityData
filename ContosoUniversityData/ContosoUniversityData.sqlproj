@@ -65,6 +65,5 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Script1.PostDeployment1.sql" />
-    <None Include="ContosoUniversityData.publish.xml" />
   </ItemGroup>
 </Project>

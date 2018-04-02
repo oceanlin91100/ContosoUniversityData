@@ -3,5 +3,7 @@
   <PropertyGroup>
     <StartupScript>(空白)</StartupScript>
     <StartAction>StartNone</StartAction>
+    <TargetConnectionString>Data Source=contososite.database.windows.net;Initial Catalog=ContosoSiteExample_db;Persist Security Info=True;User ID=OceanlDB;Pooling=False;MultipleActiveResultSets=False;Connect Timeout=60;Encrypt=True;TrustServerCertificate=False</TargetConnectionString>
+    <TargetDatabase>ContosoSiteExample_db</TargetDatabase>
   </PropertyGroup>
 </Project>
